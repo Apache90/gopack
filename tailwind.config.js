@@ -6,7 +6,14 @@ module.exports = {
   ],
   theme: {
     extend: {
+      spacing:{
+        '1': '8px',
+        '2': '16px',
+        '3': '60px',
+      },
       height: {
+        '2': '10rem',
+        '3': '10.5rem',
         '50': '12rem',
       },
       fontFamily: {
@@ -17,9 +24,16 @@ module.exports = {
       },
       keyframes: {
         move: {
-          '0%': { transform: 'translateX(-20%)' },
-          '100%': { transform: 'translateX(150%)' },
+          '0%': { transform: 'translateX(-50%)' },
+          '100%': { transform: 'translateX(120%)' },
         },
+      },
+      screens: {
+        'sm': '375px', // 375px en adelante
+        'md': '640px',
+        'lg': '1240px',
+        'xl': '1300px',
+        '2xl': '1920px',
       },
     },
   },
