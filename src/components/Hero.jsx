@@ -20,7 +20,7 @@ const Hero = () => {
       }}
     >
       <div className="max-w-auto mx-auto text-center flex flex-col justify-center">
-        <div className="md:text-[40px] xl:text-[50px] sm:text-4xl text-xl font-bold mt-36">
+        <div className="md:text-[40px] xl:text-[50px] sm:text-4xl text-xl font-bold xl:mt-36 sm:mt-[115px]">
           HACEMOS ENVIOS A TODO CUYO!
         </div>
         <div className="typewriter-container">
@@ -45,7 +45,7 @@ const Hero = () => {
           />
         </div>
         <p className="md:text-5xl sm:text-4xl text-xl font-bold mt-[120px] sm:pb-[10px] bg-[#00000042] md:text-[40px] xl:text-[50px] h-auto">
-          Con nosotros tu paquete viaja rápido y seguro, siempre.
+          Necesitas un envío rápido y seguro?
         </p>
         <a
           href="#contact"
@@ -54,7 +54,7 @@ const Hero = () => {
           C O N T A C T A N O S | <MdTouchApp />
         </a>
       </div>
-      <div className="absolute md:mt-[-42px] sm:mt-[-20px] left-0 w-full overflow-hidden">
+      <div className="absolute md:mt-[-42px] sm:mt-[20px] left-0 w-full overflow-hidden">
   <img
     src={traficImage}
     alt="Traffic"

@@ -32,12 +32,12 @@ body {
 
 @media (max-width: 480px) {
   .typewriter-container {
-    font-size: 50px;
+    font-size: 70px;
   }
 }
 
 @media (max-width: 375px) {
   .typewriter-container {
-    font-size: 40px;
+    font-size: 500px;
   }
 }

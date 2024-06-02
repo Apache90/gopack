@@ -1,5 +1,5 @@
 import React from 'react';
-import Analytics from './components/Analytics';
+import AboutUs from './components/AboutUs';
 import Cards from './components/Cards';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
@@ -13,13 +13,13 @@ function App() {
       <div id="home">
         <Hero />
       </div>
-      <div id="company">
-        <Analytics />
+      <div id="about">
+        <AboutUs />
       </div>
       <div id="resources">
         <Newsletter />
       </div>
-      <div id="about">
+      <div id="company">
         <Cards />
       </div>
       <div id="contact">
