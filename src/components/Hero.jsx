@@ -48,7 +48,9 @@ const Hero = () => {
           Necesitas un envío rápido y seguro?
         </p>
         <a
-          href="#contact"
+          href="https://wa.link/gxdvwp"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-[#FF009C] xl:text-[50px] sm:text-[30px] w-auto sm:h-[80px] xl:h-[120px] text-black text-center font-bold flex justify-center items-center"
         >
           C O N T A C T A N O S | <MdTouchApp />

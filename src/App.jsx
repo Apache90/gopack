@@ -4,7 +4,7 @@ import Cards from './components/Cards';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
-import Newsletter from './components/Newsletter';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -17,10 +17,11 @@ function App() {
         <AboutUs />
       </div>
       <div id="resources">
-        <Newsletter />
+      <Cards />
+        
       </div>
       <div id="company">
-        <Cards />
+      <Contact />
       </div>
       <div id="contact">
         <Footer />
