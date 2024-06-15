@@ -6,7 +6,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      spacing:{
+      spacing: {
         '1': '8px',
         '2': '16px',
         '3': '60px',
@@ -29,7 +29,7 @@ module.exports = {
         },
       },
       screens: {
-        'sm': '375px', // 375px en adelante
+        'sm': '375px',
         'md': '640px',
         'lg': '1240px',
         'xl': '1300px',
