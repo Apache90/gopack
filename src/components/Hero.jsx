@@ -48,7 +48,7 @@ const Hero = () => {
           Necesitas un envío rápido y seguro?
         </p>
         <a
-          href="https://wa.link/gxdvwp"
+          href="https://wa.link/5ypebc"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#FF009C] xl:text-[50px] sm:text-[30px] w-auto sm:h-[80px] xl:h-[120px] text-black text-center font-bold flex justify-center items-center"
@@ -56,15 +56,14 @@ const Hero = () => {
           C O N T A C T A N O S | <MdTouchApp />
         </a>
       </div>
-      <div className="absolute md:mt-[-42px] sm:mt-[20px] left-0 w-full overflow-hidden">
-  <img
-    src={traficImage}
-    alt="Traffic"
-    className="xl:w-full xl:max-w-[1300px] sm:w-auto sm:max-w-[1100px] mx-auto animate-move"
-    style={{ zIndex: "0", height: "auto" }}
-  />
-</div>
-
+      <div className="absolute bottom-0 left-0 w-full overflow-hidden">
+        <img
+          src={traficImage}
+          alt="Traffic"
+          className="xl:w-full xl:max-w-[1300px] sm:w-auto sm:max-w-[1100px] mx-auto animate-move"
+          style={{ zIndex: "0", height: "auto" }}
+        />
+      </div>
     </div>
   );
 };

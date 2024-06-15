@@ -13,8 +13,8 @@ const Cards = () => {
               <div className='text-center font-medium flex-1'>
                   <p className='py-2 border-b mx-8'>Garantiza una entrega rápida en un plazo específico, generalmente dentro de 1-3 días hábiles dependiendo de la ubicación. Es más costoso que el servicio estándar pero ideal para envíos urgentes.</p>
               </div>
-              <a href='https://wa.link/gxdvwp' target='_blank' rel='noopener noreferrer'>
-                <button className='bg-[#FF009C] w-full md:w-36 h-12 rounded-md font-medium my-4'>CONSULTAR</button>
+              <a href='https://wa.link/5ypebc' target='_blank' rel='noopener noreferrer'>
+                <button className='bg-[#FF009C] w-36 h-12 rounded-md font-medium my-4'>CONSULTAR</button>
               </a>
           </div>
           <div className='w-full shadow-xl bg-gray-100 flex flex-col items-center p-4 my-4 rounded-lg hover:scale-105 duration-300'>
@@ -23,8 +23,8 @@ const Cards = () => {
               <div className='text-center font-medium flex-1'>
                   <p className='py-2 border-b mx-8'>Ofrecido a empresas que necesitan almacenar inventario y distribuir productos a nivel local o en zona de Cuyo.</p>
               </div>
-              <a href='https://wa.link/gxdvwp' target='_blank' rel='noopener noreferrer'>
-                <button className='bg-black text-[#FF009C] w-full md:w-36 h-12 rounded-md font-medium my-4'>CONSULTAR</button>
+              <a href='https://wa.link/5ypebc' target='_blank' rel='noopener noreferrer'>
+                <button className='bg-black text-[#FF009C] w-36 h-12 rounded-md font-medium my-4'>CONSULTAR</button>
               </a>
           </div>
           <div className='w-full shadow-xl flex flex-col items-center p-4 my-4 rounded-lg hover:scale-105 duration-300'>
@@ -33,8 +33,8 @@ const Cards = () => {
               <div className='text-center font-medium flex-1'>
                   <p className='py-2 border-b mx-8'>Como entrega a domicilio, gestión de productos perecederos o delicados, manejo de mercancías peligrosas, entre otros.</p>
               </div>
-              <a href='https://wa.link/gxdvwp' target='_blank' rel='noopener noreferrer'>
-                <button className='bg-[#FF009C] w-full md:w-36 h-12 rounded-md font-medium my-4'>CONSULTAR</button>
+              <a href='https://wa.link/5ypebc' target='_blank' rel='noopener noreferrer'>
+                <button className='bg-[#FF009C] w-36 h-12 rounded-md font-medium my-4'>CONSULTAR</button>
               </a>
           </div>
       </div>

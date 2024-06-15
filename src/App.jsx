@@ -16,14 +16,14 @@ function App() {
       <div id="about">
         <AboutUs />
       </div>
-      <div id="resources">
+      <div id="cards">
       <Cards />
         
       </div>
-      <div id="company">
+      <div id="contact">
       <Contact />
       </div>
-      <div id="contact">
+      <div id="footer">
         <Footer />
       </div>
     </div>
