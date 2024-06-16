@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <div className='w-full fixed top-0 flex justify-between items-center h-24 mx-auto px-4 text-white bg-black z-50'>
-      <img src={navLogo} alt="Logo" className='sm:h-[65px] md:h-[60px] xl:h-[80px]' />
+      <img src={navLogo} alt="Logo" className='sm:h-[70px] md:h-[70px] xl:h-[80px]' />
       <ul className='hidden md:flex xl:text-[25px] md:text-[20px]'>
         <li className='p-4 hover:text-[#FF009C]'><a href="#home">Inicio</a></li>
         <li className='p-4 hover:text-[#FF009C]'><a href="#about">Nosotros</a></li>

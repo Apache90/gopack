@@ -29,7 +29,7 @@ module.exports = {
         },
       },
       screens: {
-        'sm': '375px',
+        'sm': '360px',
         'md': '640px',
         'lg': '1240px',
         'xl': '1300px',
