@@ -45,7 +45,7 @@ const Hero = () => {
         </div>
         <div>
           <div className="">
-            <p className="xl:text-[50px] text-[24px] font-bold mt-[120px] bg-[#00000042] h-auto">
+            <p className="xl:text-[50px] text-[24px] font-bold sm:mt-[120px] bg-[#00000042] h-auto">
               ¿Necesitas un envío rápido y seguro?
             </p>
             <a
@@ -61,7 +61,7 @@ const Hero = () => {
             <img
               src={traficImage}
               alt="Traffic"
-              className="sm:max-w-[800px] xl:max-w-[1300px] mx-auto animate-move"
+              className="xl:max-w-[1300px] sm:max-w-[1300px] mx-auto animate-move"
               style={{ zIndex: "0", height: "auto" }}
             />
           </div>

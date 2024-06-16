@@ -16,7 +16,7 @@ const Footer = () => {
         {/* Sección izquierda */}
         <div className='text-center lg:text-left lg:w-2/3 mb-4 lg:mb-0'>
           <h1 className='text-3xl font-bold text-[#FF009C]'>G O P A C K</h1>
-          <p className='py-4'>Para más información, mantente al tanto de nuestras redes sociales.</p>
+          <p className='py-4'>Para más información, mantente al tanto en nuestras redes sociales.</p>
         </div>
         
         {/* Sección derecha (Íconos de redes sociales) */}
